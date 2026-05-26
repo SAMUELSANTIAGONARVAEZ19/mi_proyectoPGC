@@ -340,7 +340,6 @@ Puedes usar estas cuentas para probar la aplicación sin registrarte:
 
 | Nombre | Rol |
 |--------|-----|
-| Julian Fernando Correa Cardozo | Desarrollador |
 | Samuel Santiago Narváez Martínez | Desarrollador |
 
 **Programa:** Ingeniería de Software  
